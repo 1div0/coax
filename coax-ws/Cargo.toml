@@ -13,8 +13,8 @@ base64          = ">= 0.5"
 byteorder       = ">= 0.5"
 coax-net        = { path = "../coax-net" }
 slog            = ">= 2.0"
-openssl         = ">= 0.9"
+openssl         = ">= 0.10"
 quick-error     = ">= 1.1"
 rand            = ">= 0.3"
-url             = ">= 1.1"
+url             = ">= 2.2"
 

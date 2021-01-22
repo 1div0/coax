@@ -15,6 +15,6 @@ coax-ws     = { path = "../coax-ws" }
 cookie      = ">= 0.6.1"
 json-codec  = ">= 0.4"
 slog        = ">= 2.0"
-openssl     = ">= 0.9"
-url         = ">= 1.1"
+openssl     = ">= 0.10"
+url         = ">= 2.2"
 
